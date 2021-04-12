@@ -6,3 +6,6 @@
 
  
 [growth mindest](https://www.atlassian.com/blog/inside-atlassian/growth-mindset/).
+
+
+[Read01](https://aseel-alsayeh.github.io/reading-notes/Read01)
