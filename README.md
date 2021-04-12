@@ -9,3 +9,5 @@
 
 
 [Read01](https://aseel-alsayeh.github.io/reading-notes/Read01)
+
+[Read02](https://aseel-alsayeh.github.io/reading-notes/Read02)
