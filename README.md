@@ -10,3 +10,7 @@
 [Read02](https://aseel-alsayeh.github.io/reading-notes/Read02)
 
 [Read03](https://aseel-alsayeh.github.io/reading-notes/Read03)
+
+[Read04a](https://aseel-alsayeh.github.io/reading-notes/Read04)
+
+[Read04b](https://aseel-alsayeh.github.io/reading-notes/Read04)
