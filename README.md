@@ -15,3 +15,5 @@
 [Read04b](https://aseel-alsayeh.github.io/reading-notes/Read04b)
 
 [Read05](https://aseel-alsayeh.github.io/reading-notes/Read05)
+
+[Read06](https://aseel-alsayeh.github.io/reading-notes/Read06)
