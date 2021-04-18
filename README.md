@@ -16,6 +16,10 @@
 
 [Read05](https://aseel-alsayeh.github.io/reading-notes/Read05)
 
+<<<<<<< HEAD
 [Read06](https://aseel-alsayeh.github.io/reading-notes/Read06)
 
 [Read07](https://aseel-alsayeh.github.io/reading-notes/Read07)
+=======
+[Read06](https://aseel-alsayeh.github.io/reading-notes/Read06)
+>>>>>>> 482192b67c790456d5c2df22c8e8bdf0ec5c3838
