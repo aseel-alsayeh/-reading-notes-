@@ -16,6 +16,10 @@
 
 [Read05](https://aseel-alsayeh.github.io/reading-notes/Read05)
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 235f798db1a6303e199e51269cbea03824780c92
 [Read06](https://aseel-alsayeh.github.io/reading-notes/Read06)
 
 [Read07](https://aseel-alsayeh.github.io/reading-notes/Read07)
@@ -23,4 +27,7 @@
 [Read06](https://aseel-alsayeh.github.io/reading-notes/Read06)
 
 
+<<<<<<< HEAD
 ### table of content code 201
+=======
+>>>>>>> 235f798db1a6303e199e51269cbea03824780c92
