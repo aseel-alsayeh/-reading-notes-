@@ -2,7 +2,7 @@
 ### Introduction 
 ###### My name is Aseel Alsayeh, I am a chemical engineer and this is my GitHub account: [aseel](https://github.com/aseel-alsayeh)
 
-### table of content 
+### table of content code 102
 [growth mindest](https://aseel-alsayeh.github.io/reading-notes/growthmindest)
 
 [Read01](https://aseel-alsayeh.github.io/reading-notes/Read01)
@@ -19,3 +19,8 @@
 [Read06](https://aseel-alsayeh.github.io/reading-notes/Read06)
 
 [Read07](https://aseel-alsayeh.github.io/reading-notes/Read07)
+
+[Read06](https://aseel-alsayeh.github.io/reading-notes/Read06)
+
+
+### table of content code 201
