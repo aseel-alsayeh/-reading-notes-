@@ -25,8 +25,5 @@
 
 
 ### table of content code 201
-|    Read no . | Read link  |
------------------------------
-===================================
-|    read02    | read02.md  |
-|    read03    | read03.md  |
+[read02](https://aseel-alsayeh.github.io/reading-notes/read02)
+[read03](https://aseel-alsayeh.github.io/reading-notes/read03)

@@ -14,3 +14,20 @@
 - the ins tag : underline.
 - the s tag : line through it , something that is no longer 
    accurate or relevant (but that should not be deleted).
+
+### chapter 10: Introduction CSS 
+- h1~p {} : General Sibling Selector :Matches an element that is a sibling of another, although it does not have to be the directly preceding element.
+
+
+### chapter 2: Basic javascript instruction 
+- An array is a special type of variable. It doesn't just store one value; it stores a list of values. 
+- ex:  Create the array 
+var colors = ['white', 
+'black' , 
+'custom']; 
+
+- ex :Update the third item in the array 
+colors[2] = 'beige ' ;
+
+### chapter 4 : decision and loops
+-  switch statment :have a default option that is run if none of the cases match. 
