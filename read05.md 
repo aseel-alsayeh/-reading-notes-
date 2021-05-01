@@ -1,0 +1,15 @@
+### ch:5 images 
+- Photographs are best saved as JPEGs; illustrations or 
+logos that use flat colors are better saved as GIFs.
+- The <figcaption> element has been added to HTML5 in order to allow web page authors to add 
+a caption to an image.
+
+### ch:12 Text
+- ![image](https://images.squarespace-cdn.com/content/v1/54becebee4b05d09416fe7e4/1425914286911-BQF6SZGHEDUOX1OD5XMB/ke17ZwdGBToddI8pDm48kKt_S8h31HASSDyVSyiku9ZZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIpre5rGnXbUAaAaVDYtwhEmODeMGrov4yigMSGLVbPBA/image-asset.png)
+- text-transform : uppercase/lowercase
+- text-align :justify
+This indicates that every line in a paragraph, except the last line, 
+should be set to take up the full width of the containing box.
+- :link
+This allows you to set styles for links that have not yet been visited. 
+- :visited This allows you to set styles for links that have been clicked on. 
