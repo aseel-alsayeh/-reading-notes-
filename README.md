@@ -34,3 +34,5 @@
 [read05](https://aseel-alsayeh.github.io/reading-notes/read05)
 
 [read06](https://aseel-alsayeh.github.io/reading-notes/read06)
+
+[read07](https://aseel-alsayeh.github.io/reading-notes/read07)
