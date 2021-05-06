@@ -1,0 +1,16 @@
+- when we want to add event, follow these steps :
+
+ * in HTML page
+
+ - type form tag at HTML page
+ - type fieldset tag at HTML page 
+ - label the element that you want to appear to the reader/writer.
+ - input the type of this elment, the id , and the placeholder
+ * in JavaScript page
+
+ - gitElementById for the form
+ - add the sumbmit buttom by addEventListener
+ - make a function(event)
+ - remamber to preventDefault to avoid delete your data when you refresh
+ -set the variable to the event by event.target.variableName.value
+ -add it to the constructor or call function to make the changes . 
