@@ -43,3 +43,7 @@
 
 [read10](https://aseel-alsayeh.github.io/reading-notes/read10)
 
+[read11]
+
+[read12](https://aseel-alsayeh.github.io/reading-notes/read11)
+
