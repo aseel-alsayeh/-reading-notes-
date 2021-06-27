@@ -64,5 +64,10 @@
 
 [readClass05](https://aseel-alsayeh.github.io/reading-notes/class05)
 
+[readClass06](https://aseel-alsayeh.github.io/reading-notes/class06)
+
+
+
+
 
 
