@@ -68,6 +68,9 @@
 
 [readClass07](https://aseel-alsayeh.github.io/reading-notes/class07)
 
+[readClass08](https://aseel-alsayeh.github.io/reading-notes/class08)
+
+
 
 
 
