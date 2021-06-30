@@ -70,6 +70,9 @@
 
 [readClass08](https://aseel-alsayeh.github.io/reading-notes/class08)
 
+[readClass09](https://aseel-alsayeh.github.io/reading-notes/class09)
+
+
 
 
 
