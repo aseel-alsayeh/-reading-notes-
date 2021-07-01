@@ -72,6 +72,9 @@
 
 [readClass09](https://aseel-alsayeh.github.io/reading-notes/class09)
 
+[readClass10](https://aseel-alsayeh.github.io/reading-notes/class10)
+
+
 
 
 
