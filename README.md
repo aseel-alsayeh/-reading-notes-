@@ -76,6 +76,9 @@
 
 [readClass11](https://aseel-alsayeh.github.io/reading-notes/class11)
 
+[readClass12](https://aseel-alsayeh.github.io/reading-notes/class12)
+
+
 
 
 
