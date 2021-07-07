@@ -80,6 +80,11 @@
 
 [readClass13](https://aseel-alsayeh.github.io/reading-notes/class13)
 
+[readClass14](https://aseel-alsayeh.github.io/reading-notes/class14)
+
+
+
+
 
 
 
